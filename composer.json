@@ -1,0 +1,11 @@
+{
+  "name": "hc/refactoring",
+  "type": "project",
+  "license": "MIT",
+  "require-dev": {
+    "phpstan/phpstan": "^1.9"
+  },
+  "require": {
+    "ext-intl": "*"
+  }
+}
